@@ -1,2 +1,1 @@
 # grades-checker
-## Process
